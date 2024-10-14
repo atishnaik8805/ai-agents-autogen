@@ -23,10 +23,10 @@ MANIFEST
 
 # Virtualenv
 .env/
-venv/
+autogen/
 ENV/
 env/
-.venv/
+.autogen/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
